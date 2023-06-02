@@ -1,0 +1,3 @@
+terraformm {
+    backend "s3" {}
+}
